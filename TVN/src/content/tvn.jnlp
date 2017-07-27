@@ -1,0 +1,20 @@
+  <?xml version="1.0" encoding="utf-8"?>
+  <jnlp spec="1.0+" codebase="http://172.16.0.33:8080/webstart/" href="tvn.jnlp" version="1.0.0">
+    <information>
+      <title>TVN</title>
+      <vendor>Thomas Sax</vendor>
+      <homepage>http://172.16.0.33:8080/webstart</homepage>
+      <icon href="pic/logo.jpg"/> 
+      <offline-allowed/>
+    </information>
+    
+    <security>
+      <all-permissions/>
+   </security>
+    <resources>
+      <j2se version="1.6+"/>
+      <j2se version="1.5+"/>
+      <jar href="TVN.jar"/>
+    </resources>
+    <application-desc main-class="content.TVN" />
+  </jnlp>

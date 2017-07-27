@@ -1,0 +1,1 @@
+"c:\Programme\java\jdk1.8.0_92\bin\jarsigner"  M:\ml4\entwicklung\sax\eclipse_neon\TVN\tvn.jar -keystore  c:\Programme\java\jdk1.8.0_92\bin\keystore.jks -storepass thomas  server

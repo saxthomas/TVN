@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/autoelectric"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="M:/ML4/Install/java_library/jtds-1.2.4.jar"/>
+	<classpathentry kind="lib" path="M:/ML4/Install/java_library/swingx-1.6/swingx-all-1.6.5.jar"/>
+	<classpathentry kind="lib" path="M:/ML4/Install/java_library/poi 3.10/poi-3.10-beta1-20130628.jar"/>
+	<classpathentry kind="lib" path="M:/ML4/Install/java_library/itext-5.2.1/itextpdf-5.2.1.jar"/>
+	<classpathentry kind="lib" path="M:/ML4/Install/java_library/synthetica_2.17.1/synthetica.jar"/>
+	<classpathentry kind="lib" path="M:/ML4/Install/java_library/syntheticaAddons_1.7.1_eval/syntheticaAddons.jar"/>
+	<classpathentry kind="lib" path="M:/ML4/Install/java_library/synthetica_2.17.1/themes/syntheticaClassy.jar"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/LDAP"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

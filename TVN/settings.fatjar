@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed Feb 03 08:07:48 CET 2010
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=TVN.jar
+manifest.mergeall=true
+manifest.mainclass=content.TVN
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<jar|itext-1.4.jar>;<jar|firebirdsql-full.jar>;<jar|syntheticaBlueIce.jar>;<jar|jcalendar-1.3.2.jar>;<jar|mail.jar>;<jar|syntheticaSkyMetallic.jar>;<jar|syntheticaOrangeMetallic.jar>;<jar|syntheticaBlackStar.jar>
+includes=
